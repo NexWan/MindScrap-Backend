@@ -1,0 +1,444 @@
+[
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Reyes Acosta Narda Lucely",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Reyes Acosta Narda Lucely",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Valdes Gonzalez Lucia Marisol",
+        "Grupo": "D",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Cantu Perez Jesus",
+        "Grupo": "E",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Garcia Alvarez Jose Ignacio",
+        "Grupo": "F",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "14:00-15:00",
+            "Martes": "14:00-15:00",
+            "Miercoles": "14:00-15:00",
+            "Jueves": "14:00-15:00",
+            "Viernes": "14:00-15:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Cantu Perez Jesus",
+        "Grupo": "G",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Garcia Alvarez Jose Ignacio",
+        "Grupo": "H",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "16:00-17:00",
+            "Martes": "16:00-17:00",
+            "Miercoles": "16:00-17:00",
+            "Jueves": "16:00-17:00",
+            "Viernes": "16:00-17:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Luevano Martinez Ismael",
+        "Grupo": "I",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Ramos Oliveira Jorge Alberto",
+        "Grupo": "J",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "16:00-17:00",
+            "Martes": "16:00-17:00",
+            "Miercoles": "16:00-17:00",
+            "Jueves": "16:00-17:00",
+            "Viernes": "16:00-17:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Sanchez Romina Denisse",
+        "Grupo": "L",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Cantu Perez Ing. Cesar Ivan Cantu",
+        "Grupo": "M",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Sanchez Romina Denisse",
+        "Grupo": "N",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Ecuaciones Diferenciales",
+        "Profesor": "Cueto Rodriguez Maria Magdalena",
+        "Grupo": "O",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Telecomunicaciones",
+        "Profesor": "Sanchez Jacome Omar",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Telecomunicaciones",
+        "Profesor": "Martinez Martinez Oscar Humberto",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Telecomunicaciones",
+        "Profesor": "Melendez Olivares Ana Karen",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "17:00-18:00",
+            "Martes": "17:00-18:00",
+            "Miercoles": "17:00-18:00",
+            "Jueves": "17:00-18:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Telecomunicaciones",
+        "Profesor": "Soto Trevino Alejandro",
+        "Grupo": "D",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "20:00-21:00",
+            "Martes": "20:00-21:00",
+            "Miercoles": "20:00-21:00",
+            "Jueves": "20:00-21:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Topicos Avanzados De Programacion",
+        "Profesor": "Contreras Gaytan Juan Jose",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Topicos Avanzados De Programacion",
+        "Profesor": "Vargas Lopez Marcelino",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Topicos Avanzados De Programacion",
+        "Profesor": "Vargas Lopez Marcelino",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Topicos Avanzados De Programacion",
+        "Profesor": "Contreras Gaytan Juan Jose",
+        "Grupo": "D",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Taller De Base De Datos",
+        "Profesor": "Mancinas Perez Liset",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Base De Datos",
+        "Profesor": "Mancinas Perez Liset",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Base De Datos",
+        "Profesor": "Mancinas Perez Liset",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Investigacion De Operaciones",
+        "Profesor": "Fraustro Gaona Claudia Maria",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Investigacion De Operaciones",
+        "Profesor": "Fraustro Gaona Claudia Maria",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Investigacion De Operaciones",
+        "Profesor": "Garay Guerrero Jesus Emanuel",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Programacion Web",
+        "Profesor": "Sandoval Nunez Juan Manuel",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Programacion Web",
+        "Profesor": "Valdes Martinez David Andres",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": "07:00-08:00"
+        }
+    },
+    {
+        "Materia": "Programacion Web",
+        "Profesor": "Sandoval Nunez Juan Manuel",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Programacion Web",
+        "Profesor": "Valdes Martinez David Andres",
+        "Grupo": "D",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Arquitectura De Computadoras",
+        "Profesor": "Rodarte Fuentes Benito",
+        "Grupo": "A",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Arquitectura De Computadoras",
+        "Profesor": "Maldonado Leza Miguel",
+        "Grupo": "B",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": "18:00-19:00"
+        }
+    },
+    {
+        "Materia": "Arquitectura De Computadoras",
+        "Profesor": "Maldonado Leza Miguel",
+        "Grupo": "C",
+        "Semestre": "4",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": "19:00-20:00"
+        }
+    }
+]

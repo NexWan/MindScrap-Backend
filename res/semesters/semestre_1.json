@@ -1,0 +1,587 @@
+[
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Gaytan Tanguma Celina",
+        "Grupo": "18",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Gaytan Tanguma Celina",
+        "Grupo": "19",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Sanchez Gonzalez Eliana Sarahi",
+        "Grupo": "20",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Juan Vazquez Carrillo",
+        "Grupo": "5",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Juan Vazquez Carrillo",
+        "Grupo": "6",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Juan Vazquez Carrillo",
+        "Grupo": "7",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "14:00-15:00",
+            "Martes": "14:00-15:00",
+            "Miercoles": "14:00-15:00",
+            "Jueves": "14:00-15:00",
+            "Viernes": "14:00-15:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Pendiente Por Asignar",
+        "Grupo": "8",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "16:00-17:00",
+            "Martes": "16:00-17:00",
+            "Miercoles": "16:00-17:00",
+            "Jueves": "16:00-17:00",
+            "Viernes": "16:00-17:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Juan Vazquez Carrillo",
+        "Grupo": "9",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Gonzalez Martinez Edna Marina",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Del Bosque Martinez Alicia Guadalupe",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Calculo Diferencial",
+        "Profesor": "Gonzalez Martinez Edna Marina",
+        "Grupo": "X",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": "15:00-16:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "Cabrera Chagoyan Karina",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "De La Barrera Gomez Helue Isabel",
+        "Grupo": "Ac",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "Campos Ortiz Araceli",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "Campos Ortiz Araceli",
+        "Grupo": "Bd",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "Campos Ortiz Araceli",
+        "Grupo": "R",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Programacion",
+        "Profesor": "Sanchez Montes Rocio Cipactli",
+        "Grupo": "S",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "17:00-18:00",
+            "Martes": "17:00-18:00",
+            "Miercoles": "17:00-18:00",
+            "Jueves": "17:00-18:00",
+            "Viernes": "17:00-18:00"
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Gongora Solis Juanita Elena",
+        "Grupo": "1",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Barajas Salazar Veronica Arlaine",
+        "Grupo": "10",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Olguin Ramos Noe",
+        "Grupo": "11",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "20:00-21:00",
+            "Martes": "20:00-21:00",
+            "Miercoles": "20:00-21:00",
+            "Jueves": "20:00-21:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pena Cruz Ana Laura",
+        "Grupo": "12",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pena Cruz Guadalupe Del Socorro",
+        "Grupo": "2",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pena Cruz Ana Laura",
+        "Grupo": "3",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pena Cruz Guadalupe Del Socorro",
+        "Grupo": "4",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Barajas Salazar Veronica Arlaine",
+        "Grupo": "5",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Valdez Martinez Lizela Berenice",
+        "Grupo": "6",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Quiroz Zamora Erika Guadalupe",
+        "Grupo": "7",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Arriaga Aguilar Carlos Benito",
+        "Grupo": "8",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pena Cruz Guadalupe Del Socorro",
+        "Grupo": "9",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pendiente Por Asignar",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Etica",
+        "Profesor": "Pendiente Por Asignar",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Matematicas Discretas",
+        "Profesor": "Pendiente Por Asignar",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Matematicas Discretas",
+        "Profesor": "Valdes Gonzalez Lucia Marisol",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "14:00-15:00",
+            "Martes": "14:00-15:00",
+            "Miercoles": "14:00-15:00",
+            "Jueves": "14:00-15:00",
+            "Viernes": "14:00-15:00"
+        }
+    },
+    {
+        "Materia": "Matematicas Discretas",
+        "Profesor": "Martinez Villafuerte Veronica",
+        "Grupo": "S",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": "15:00-16:00"
+        }
+    },
+    {
+        "Materia": "Taller De Administracion",
+        "Profesor": "Escobar Martinez Iris Anahi",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Administracion",
+        "Profesor": "Hernandez Santana Maria Antonieta",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Administracion",
+        "Profesor": "Mireles Contreras Martin",
+        "Grupo": "R",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Administracion",
+        "Profesor": "Gongora Solis Juanita Elena",
+        "Grupo": "S",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "17:00-18:00",
+            "Martes": "17:00-18:00",
+            "Miercoles": "17:00-18:00",
+            "Jueves": "17:00-18:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Administracion",
+        "Profesor": "Hernandez Santana Maria Antonieta",
+        "Grupo": "T",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Gonzalez Martinez Alejandra Maria De Lourdes",
+        "Grupo": "A",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Sorkee Quiroz Roxana Karina",
+        "Grupo": "Ac",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Hernandez Calderon Carmen Melida",
+        "Grupo": "B",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Sorkee Quiroz Roxana Karina",
+        "Grupo": "Bd",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Esquivel Lopez Laura Leticia",
+        "Grupo": "R",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Investigacion",
+        "Profesor": "Mancinas Perez Liset",
+        "Grupo": "S",
+        "Semestre": "1",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "Materia": "Lenguajes Y Automatas I",
+        "Profesor": "Cabrera Chagoyan Karina",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Lenguajes Y Automatas I",
+        "Profesor": "Castanuela Fuentes Luis Enrique",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Lenguajes Y Automatas I",
+        "Profesor": "Cabrera Chagoyan Karina",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Lenguajes Y Automatas I",
+        "Profesor": "Castanuela Fuentes Luis Enrique",
+        "Grupo": "D",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Conmutacion Y Enrutamiento De Redes De Datos",
+        "Profesor": "Valdivia Lugo Eduardo",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Conmutacion Y Enrutamiento De Redes De Datos",
+        "Profesor": "Mendoza Morales Sergio Arturo",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Conmutacion Y Enrutamiento De Redes De Datos",
+        "Profesor": "Valdivia Lugo Eduardo",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Taller De Investigacion I",
+        "Profesor": "Sorkee Quiroz Roxana Karina",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "14:00-15:00",
+            "Martes": "14:00-15:00",
+            "Miercoles": "14:00-15:00",
+            "Jueves": "14:00-15:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Investigacion I",
+        "Profesor": "Flores Cano Ricardo",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Investigacion I",
+        "Profesor": "Flores Cano Ricardo",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Investigacion I",
+        "Profesor": "Sorkee Quiroz Roxana Karina",
+        "Grupo": "D",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Sistemas Operativos",
+        "Profesor": "Aguirre Garcia Jesus Enrique",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Sistemas Operativos",
+        "Profesor": "Aguirre Garcia Jesus Enrique",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Taller De Sistemas Operativos",
+        "Profesor": "Castanuela Fuentes Luis Enrique",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Ingenieria De Software",
+        "Profesor": "Campos Ortiz Araceli",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Ingenieria De Software",
+        "Profesor": "Moreno Rubio Judith Magaly",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "16:00-17:00",
+            "Martes": "16:00-17:00",
+            "Miercoles": "16:00-17:00",
+            "Jueves": "16:00-17:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Ingenieria De Software",
+        "Profesor": "Campos Ortiz Araceli",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Sistemas Programables",
+        "Profesor": "Gaytan Malacara Jose Luis",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Sistemas Programables",
+        "Profesor": "Mona Pena Luis Javier",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Programacion Logica Y Funcional",
+        "Profesor": "Espinoza Arzola Jesus Alberto",
+        "Grupo": "A",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Programacion Logica Y Funcional",
+        "Profesor": "Espinoza Arzola Jesus Alberto",
+        "Grupo": "B",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "16:00-17:00",
+            "Martes": "16:00-17:00",
+            "Miercoles": "16:00-17:00",
+            "Jueves": "16:00-17:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Programacion Logica Y Funcional",
+        "Profesor": "Linan Garcia Ernesto",
+        "Grupo": "C",
+        "Semestre": "6",
+        "Horario": {
+            "Lunes": "19:00-21:00",
+            "Martes": " ",
+            "Miercoles": " ",
+            "Jueves": "19:00-21:00",
+            "Viernes": " "
+        }
+    }
+]

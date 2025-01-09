@@ -1,0 +1,405 @@
+[
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Luna Silvia Deyanira",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Martinez Montemayor Gloria Estela",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": "15:00-16:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Contreras Araceli Elizabeth",
+        "Grupo": "C",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Luna Silvia Deyanira",
+        "Grupo": "D",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Garcia Alvarez Jose Ignacio",
+        "Grupo": "E",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "15:00-16:00",
+            "Martes": "15:00-16:00",
+            "Miercoles": "15:00-16:00",
+            "Jueves": "15:00-16:00",
+            "Viernes": "15:00-16:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Cantu Perez Jesus",
+        "Grupo": "F",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Contreras Araceli Elizabeth",
+        "Grupo": "H",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Contreras Araceli Elizabeth",
+        "Grupo": "I",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Flores Villa Miguel Angel",
+        "Grupo": "K",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": "19:00-20:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Rodriguez Luna Silvia Deyanira",
+        "Grupo": "N",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Valdes Gonzalez Lucia Marisol",
+        "Grupo": "O",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Garcia Alvarez Jose Ignacio",
+        "Grupo": "P",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Valdes Gonzalez Lucia Marisol",
+        "Grupo": "R",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Calculo Vectorial",
+        "Profesor": "Flores Villa Miguel Angel",
+        "Grupo": "S",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "20:00-21:00",
+            "Martes": "20:00-21:00",
+            "Miercoles": "20:00-21:00",
+            "Jueves": "20:00-21:00",
+            "Viernes": "20:00-21:00"
+        }
+    },
+    {
+        "Materia": "Estructura De Datos",
+        "Profesor": "Dominguez Martinez Arturo Alejandro",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Estructura De Datos",
+        "Profesor": "Alvarez Sandoval Martha Patricia",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Estructura De Datos",
+        "Profesor": "Alvarez Sandoval Martha Patricia",
+        "Grupo": "C",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Cultura Empresarial",
+        "Profesor": "Sanchez Suarez Claudia Maria",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Cultura Empresarial",
+        "Profesor": "Sanchez Suarez Claudia Maria",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Cultura Empresarial",
+        "Profesor": "Gonzalez Ordaz Patricia",
+        "Grupo": "C",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": " "
+        }
+    },
+    {
+        "Materia": "Fundamentos De Base De Datos",
+        "Profesor": "Contreras Gaytan Juan Jose",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "10:00-11:00",
+            "Martes": "10:00-11:00",
+            "Miercoles": "10:00-11:00",
+            "Jueves": "10:00-11:00",
+            "Viernes": "10:00-11:00"
+        }
+    },
+    {
+        "Materia": "Fundamentos De Base De Datos",
+        "Profesor": "Gallegos Martinez Jose",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Probabilidad Y Estadistica",
+        "Profesor": "Ruiz Carranza Leonardo Daniel",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "17:00-18:00",
+            "Martes": "17:00-18:00",
+            "Miercoles": "17:00-18:00",
+            "Jueves": "17:00-18:00",
+            "Viernes": "17:00-18:00"
+        }
+    },
+    {
+        "Materia": "Probabilidad Y Estadistica",
+        "Profesor": "Sorkee Quiroz Eduardo Ernesto",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Probabilidad Y Estadistica",
+        "Profesor": "Sorkee Quiroz Eduardo Ernesto",
+        "Grupo": "C",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Probabilidad Y Estadistica",
+        "Profesor": "Rodriguez Borrego Leonilo",
+        "Grupo": "D",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Probabilidad Y Estadistica",
+        "Profesor": "Rodriguez Borrego Leonilo",
+        "Grupo": "E",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Principios Electricos Y Aplicaciones Digitales",
+        "Profesor": "Mendez Hernandez Octavio",
+        "Grupo": "A",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Principios Electricos Y Aplicaciones Digitales",
+        "Profesor": "Mendez Hernandez Octavio",
+        "Grupo": "B",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "13:00-14:00",
+            "Martes": "13:00-14:00",
+            "Miercoles": "13:00-14:00",
+            "Jueves": "13:00-14:00",
+            "Viernes": "13:00-14:00"
+        }
+    },
+    {
+        "Materia": "Principios Electricos Y Aplicaciones Digitales",
+        "Profesor": "Mendez Hernandez Octavio",
+        "Grupo": "C",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "11:00-12:00",
+            "Martes": "11:00-12:00",
+            "Miercoles": "11:00-12:00",
+            "Jueves": "11:00-12:00",
+            "Viernes": "11:00-12:00"
+        }
+    },
+    {
+        "Materia": "Principios Electricos Y Aplicaciones Digitales",
+        "Profesor": "Rodarte Fuentes Benito",
+        "Grupo": "D",
+        "Semestre": "3",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": "07:00-08:00"
+        }
+    }
+]

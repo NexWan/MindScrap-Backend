@@ -1,0 +1,171 @@
+[
+    {
+        "Materia": "Comunicacion Y Liderazgo En Ti",
+        "Profesor": "Vazquez Esquivel Ana Laura",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": "07:00-08:00"
+        }
+    },
+    {
+        "Materia": "Comunicacion Y Liderazgo En Ti",
+        "Profesor": "Vazquez Esquivel Ana Laura",
+        "Grupo": "B",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": "18:00-19:00"
+        }
+    },
+    {
+        "Materia": "Programacion Para Dispositivos Moviles",
+        "Profesor": "Dominguez Martinez Arturo Alejandro",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "08:00-09:00",
+            "Martes": "08:00-09:00",
+            "Miercoles": "08:00-09:00",
+            "Jueves": "08:00-09:00",
+            "Viernes": "08:00-09:00"
+        }
+    },
+    {
+        "Materia": "Desarrollo De Aplicaciones Web",
+        "Profesor": "Flores Cortes Jesus David",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "20:00-21:00",
+            "Martes": "20:00-21:00",
+            "Miercoles": "20:00-21:00",
+            "Jueves": "20:00-21:00",
+            "Viernes": "20:00-21:00"
+        }
+    },
+    {
+        "Materia": "Programacion En Ambientes Distribuidos",
+        "Profesor": "Contreras Gaytan Juan Jose",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "09:00-10:00",
+            "Martes": "09:00-10:00",
+            "Miercoles": "09:00-10:00",
+            "Jueves": "09:00-10:00",
+            "Viernes": "09:00-10:00"
+        }
+    },
+    {
+        "Materia": "Ciberseguridad",
+        "Profesor": "Flores Cortes Jesus David",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": "19:00-20:00"
+        }
+    },
+    {
+        "Materia": "Ciberseguridad",
+        "Profesor": "Salazar Del Bosque Miguel",
+        "Grupo": "B",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": "07:00-08:00"
+        }
+    },
+    {
+        "Materia": "Big Data Analisis De Datos",
+        "Profesor": "Flores Valdes Armando",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": "18:00-19:00"
+        }
+    },
+    {
+        "Materia": "Computo En La Nube",
+        "Profesor": "Flores Valdes Armando",
+        "Grupo": "B",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "07:00-08:00",
+            "Martes": "07:00-08:00",
+            "Miercoles": "07:00-08:00",
+            "Jueves": "07:00-08:00",
+            "Viernes": "07:00-08:00"
+        }
+    },
+    {
+        "Materia": "Internet De Las Cosas",
+        "Profesor": "Sanchez Cuevas Jonam Leonel",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "12:00-13:00",
+            "Martes": "12:00-13:00",
+            "Miercoles": "12:00-13:00",
+            "Jueves": "12:00-13:00",
+            "Viernes": "12:00-13:00"
+        }
+    },
+    {
+        "Materia": "Ciencia De Datos",
+        "Profesor": "Sanchez Cuevas Jonam Leonel",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "17:00-18:00",
+            "Martes": "17:00-18:00",
+            "Miercoles": "17:00-18:00",
+            "Jueves": "17:00-18:00",
+            "Viernes": "17:00-18:00"
+        }
+    },
+    {
+        "Materia": "Programacion De Dispositivos Moviles",
+        "Profesor": "Soto Trevino Alejandro",
+        "Grupo": "A",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "19:00-20:00",
+            "Martes": "19:00-20:00",
+            "Miercoles": "19:00-20:00",
+            "Jueves": "19:00-20:00",
+            "Viernes": "19:00-20:00"
+        }
+    },
+    {
+        "Materia": "Programacion De Dispositivos Moviles",
+        "Profesor": "Soto Trevino Alejandro",
+        "Grupo": "B",
+        "Semestre": "8",
+        "Horario": {
+            "Lunes": "18:00-19:00",
+            "Martes": "18:00-19:00",
+            "Miercoles": "18:00-19:00",
+            "Jueves": "18:00-19:00",
+            "Viernes": "18:00-19:00"
+        }
+    }
+]

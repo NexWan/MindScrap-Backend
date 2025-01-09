@@ -1,15 +1,12 @@
-# Elysia with Bun runtime
+# Mindscrap backend
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+This is a backend service written in ElysiaJS for a webapp to generate schedules from Mindbox using a tool I created
+as a source:
+[Mindscrap tool](https://github.com/NexWan/MindScrap)
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+This backend service will contain the following endpoints:
 
-Open http://localhost:3000/ with your browser to see the result.
+- Fetch semesters from a Json
+- Generate schedules automatically
+
+And pretty much it lol
